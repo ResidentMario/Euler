@@ -1,2 +1,3 @@
 # Euler
-Solutions to the Project Euler problems that I've done so far.
+This repository contains my solution to all of the Project Euler problems I have done so far.
+
