@@ -1,0 +1,53 @@
+# Default
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyCharm project
+.idea
+
+# Mac junk file
+.DS_Store
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Project notebook support
+/.ipynb_checkpoints
+
+# Project-specific
+
+# JSON files.
+concept_insight_credentials.json
+graphistry_credentials.json
+token.json
+accounts.json
+events.json
+model.json
+
+# Test files
+graph_test.py
+model_test.py
+io_test.py
+test.py
+lesmiserables.csv
